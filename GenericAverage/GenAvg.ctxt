@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=o
+comment0.target=GenAvg(java.lang.Number[])
+comment1.params=
+comment1.target=double\ getAverage()
+comment2.params=ob2
+comment2.target=boolean\ compare(GenAvg)
+numComments=3

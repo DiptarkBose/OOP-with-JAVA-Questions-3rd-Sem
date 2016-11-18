@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=l\ b\ h
+comment0.target=void\ SetDimensions(double,\ double,\ double)
+comment1.params=
+comment1.target=void\ volume()
+numComments=2
